@@ -1,3 +1,9 @@
+# Disclaimer
+This Project was made by Steffen Haulund following a tutorial from the net ninja:
+
+https://youtube.com/playlist?list=PL4cUxeGkcC9iQ7g2eoNXHCJBBBz40S_Lm
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
